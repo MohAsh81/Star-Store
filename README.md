@@ -4,6 +4,6 @@ This project is a console-based Shop Management System that provides functionali
 
 # Features
 
-General
+# General
 Database Integration: Connects to a MySQL database to manage data.
 JSON Handling: Loads discount codes from a JSON file.
