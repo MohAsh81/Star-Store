@@ -1,2 +1,3 @@
 # Star-Store
-This console-based Shop Management System provides functionalities for admins and customers. It uses a MySQL database to manage data for users, products, orders, and discounts. Admins can manage products and stock levels, while customers can place orders, view order history, and manage their accounts.
+Overview
+This project is a console-based Shop Management System that provides functionalities for both administrators and customers. It utilizes a MySQL database for storing and managing data related to users, products, orders, and discounts. The system allows administrators to manage products and stock levels, while customers can place orders, view order history, and manage their accounts.
