@@ -11,3 +11,8 @@ JSON Handling: Loads discount codes from a JSON file.
 # User Management
 Authenticate: Users(both admins and customers) can log with their credentials.
 Password Management: Users can change their password with validation to ensure security.
+
+# Administrator Functionalities
+Add Products: Admins can add new products to the shop.
+Manage Stock: Admins can update the stock levels of products.
+View Products: Admins can view all products available in the shop.
